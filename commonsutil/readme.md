@@ -1,0 +1,20 @@
+#基于springboot的公共工具类
+1.基本数据类型运算 
+ 1).money  
+ 2).bigdecimal  
+ 3).  
+ 4).bean  
+ 5).math  
+ 6).radom  
+ 7).date  
+ 8).reg  
+ 9).clone    
+2.文件操作  
+ 1).xml  
+ 2).properties  
+ 3).file  
+3.http工具类  
+4.敏感字符操作  
+5.emial工具类   
+6.加密解密  
+7.json  
