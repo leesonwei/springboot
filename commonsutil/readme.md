@@ -2,20 +2,20 @@
 1.基本数据类型运算 
  1).money  
  2).bigdecimal  
- 3).  
- 4).bean  
- 5).math  
- 6).radom  
- 7).date  
- 8).reg  
- 9).clone    
+ 3).math  
+ 4).radom  
+ 5).date  
+ 6).reg    
 2.文件操作  
  1).xml  
  2).properties  
  3).file  
 3.http工具类  
 4.敏感字符操作  
-5.emial工具类   
-6.加密解密  
-7.json  
-8.条形码/二维码 
+5.email工具类   
+6.加密解密   
+7.条形码/二维码  
+8.数据对象  
+ 1).bean  
+ 2).json  
+ 3).clone 
